@@ -1,0 +1,1 @@
+This is a text file for Lab 4: Squashing and Rebasing in Git.
